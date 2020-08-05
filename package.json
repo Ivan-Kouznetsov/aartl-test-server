@@ -1,0 +1,26 @@
+{
+  "name": "aartl-test-server",
+  "version": "1.0.0",
+  "description": "a test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Kouznetsov/aartl-test-server.git"
+  },
+  "keywords": [
+    "testing",
+    "api"
+  ],
+  "author": "Ivan Kouznetsov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ivan-Kouznetsov/aartl-test-server/issues"
+  },
+  "homepage": "https://github.com/Ivan-Kouznetsov/aartl-test-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
