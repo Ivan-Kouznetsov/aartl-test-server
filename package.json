@@ -4,7 +4,8 @@
   "description": "a test server",
   "main": "index.js",
   "scripts": {
-    "test": "echo none"
+    "test": "echo none",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

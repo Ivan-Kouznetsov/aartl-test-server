@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const app = express();
 app.use(bodyParser.raw({ type: '*/*' }));
 
-const port = 3000;
+const port = 80;
 
 const posts = ['0th Post'];
 
